@@ -1,0 +1,371 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>InnoGene North America Execution Framework</title>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background: #0b0f14;
+        color: #f5f7fa;
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 1.7;
+    }
+
+    .container {
+        width: 90%;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 60px 0;
+    }
+
+    .hero {
+        padding: 80px 60px;
+        background: linear-gradient(135deg, #111827, #0f172a);
+        border-radius: 24px;
+        margin-bottom: 40px;
+        border: 1px solid rgba(255,255,255,0.08);
+        box-shadow: 0 10px 40px rgba(0,0,0,0.45);
+    }
+
+    h1 {
+        font-size: 54px;
+        line-height: 1.15;
+        margin-bottom: 12px;
+        color: #ffffff;
+    }
+
+    h2 {
+        font-size: 32px;
+        margin-top: 70px;
+        margin-bottom: 20px;
+        color: #ffffff;
+        border-left: 5px solid #4f8cff;
+        padding-left: 16px;
+    }
+
+    h3 {
+        font-size: 24px;
+        color: #dbeafe;
+        margin-top: 40px;
+    }
+
+    .subtitle {
+        font-size: 22px;
+        color: #93c5fd;
+        margin-bottom: 8px;
+    }
+
+    .small {
+        color: #9ca3af;
+        font-size: 18px;
+    }
+
+    p {
+        color: #d1d5db;
+        font-size: 18px;
+    }
+
+    .highlight {
+        color: #60a5fa;
+        font-weight: bold;
+    }
+
+    .quote {
+        background: rgba(96,165,250,0.08);
+        border-left: 4px solid #60a5fa;
+        padding: 20px;
+        margin: 24px 0;
+        border-radius: 12px;
+    }
+
+    ul {
+        padding-left: 24px;
+    }
+
+    li {
+        margin-bottom: 10px;
+        color: #d1d5db;
+        font-size: 18px;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 30px;
+        background: #111827;
+        border-radius: 16px;
+        overflow: hidden;
+    }
+
+    th {
+        background: #1e293b;
+        color: #ffffff;
+        padding: 18px;
+        font-size: 18px;
+        text-align: left;
+    }
+
+    td {
+        padding: 18px;
+        border-top: 1px solid rgba(255,255,255,0.06);
+        color: #d1d5db;
+        font-size: 17px;
+    }
+
+    .card {
+        background: #111827;
+        border-radius: 20px;
+        padding: 32px;
+        margin-top: 30px;
+        border: 1px solid rgba(255,255,255,0.06);
+    }
+
+    .footer {
+        margin-top: 80px;
+        text-align: center;
+        color: #6b7280;
+        font-size: 15px;
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+    <div class="hero">
+        <div class="subtitle">InnoGene North America Execution Framework</div>
+        <h1>Why the Monthly Management Fee Exists</h1>
+        <div class="small">$8,500 Proposed Offer</div>
+
+        <p style="margin-top:40px;">
+            본 구조는 단순 Amazon 운영 대행이 아닌,
+            <span class="highlight">북미 사업 운영 인프라 구축 + 브랜드 자산 구축 + 실행 조직 운영</span>
+            전체를 포함하는 통합 실행 구조입니다.
+        </p>
+
+        <div class="quote">
+            단순 광고 운영비가 아니라,<br>
+            InnoGene의 북미 사업 자체를 구축하기 위한
+            “North America Business Infrastructure Buildout” 구조입니다.
+        </div>
+    </div>
+
+    <h2>1. Why This Is Not a Typical Amazon Agency Fee</h2>
+
+    <p>
+        일반적인 Amazon Agency는 Listing 업로드 및 PPC 운영 중심으로 움직입니다.
+        하지만 InnoGene 프로젝트는 Hair Loss / Functional Care / Cosmeceutical /
+        Wellness / D2C / Retail Expansion까지 포함된 고난이도 브랜드 구축 프로젝트입니다.
+    </p>
+
+    <div class="card">
+        <h3>Operational Complexity</h3>
+        <ul>
+            <li>Amazon Compliance</li>
+            <li>FDA / Claim Direction</li>
+            <li>Hair Wellness Narrative</li>
+            <li>UGC / Creator Strategy</li>
+            <li>D2C Retention Structure</li>
+            <li>Review & Trust Asset Buildout</li>
+            <li>Subscription & Customer Retention</li>
+        </ul>
+    </div>
+
+    
+    <h2>1.5. Strategic Core of the Project — Brand Buildout & GTM Execution</h2>
+
+    <p>
+        본 프로젝트의 핵심은 단순 Amazon 운영이나 광고 관리가 아닙니다.
+    </p>
+
+    <div class="quote">
+        핵심은 InnoGene의 북미 Amazon 전략 브랜드 구축 및<br>
+        Hair Wellness 기반 GTM(Go-To-Market) 전략 전체를 설계·실행하는 것입니다.
+    </div>
+
+    <p>
+        즉, 단순 제품 판매가 아니라:
+    </p>
+
+    <div class="card">
+        <h3>High-Level Strategic Execution Scope</h3>
+        <ul>
+            <li>North America Brand Architecture 설계</li>
+            <li>Amazon 전략 브랜드 방향성 구축</li>
+            <li>Hero SKU 전략 및 Launch Sequence 설계</li>
+            <li>Hair Wellness 기반 브랜드 포지셔닝</li>
+            <li>Consumer Persona & Narrative 전략</li>
+            <li>Amazon SEO / Search Intent 전략</li>
+            <li>Competitive Landscape & Positioning 분석</li>
+            <li>Review / Ranking / Trust Asset 전략</li>
+            <li>UGC / Creator / Short-form GTM 전략</li>
+            <li>D2C Funnel 및 Subscription 구조 설계</li>
+            <li>Bundle / Routine / Retention 구조 설계</li>
+            <li>Retail / Buyer Expansion Readiness</li>
+        </ul>
+    </div>
+
+    <p>
+        특히 Hair Loss / Cosmeceutical 카테고리는:
+    </p>
+
+    <div class="card">
+        <ul>
+            <li>단순 광고 집행만으로 성장하기 어려운 구조</li>
+            <li>소비자 신뢰와 Narrative가 매우 중요한 카테고리</li>
+            <li>콘텐츠와 브랜드 방향성이 매출에 직접 연결되는 시장</li>
+            <li>Amazon + D2C + Retention이 동시에 연결되어야 하는 구조</li>
+        </ul>
+    </div>
+
+    <p>
+        따라서 이번 프로젝트는 일반적인 Amazon Agency 개념이 아니라:
+    </p>
+
+    <div class="quote">
+        “North America Brand Buildout + GTM Execution Partner”에 가까운 구조입니다.
+    </div>
+
+
+    <h2>2. KMX DBA Structure Advantage</h2>
+
+    <p>
+        KMX를 통한 “InnoGene USA” DBA 운영 구조를 활용함으로써,
+        별도의 미국 법인을 직접 설립하지 않더라도 빠르고 효율적인 북미 시장 진입이 가능합니다.
+    </p>
+
+    <div class="card">
+        <h3>What This Means</h3>
+        <ul>
+            <li>미국 법인 설립 부담 최소화</li>
+            <li>빠른 North America Validation</li>
+            <li>운영 인프라 즉시 활용 가능</li>
+            <li>North America Execution Team 활용 가능</li>
+            <li>Amazon/D2C 구조 빠른 구축</li>
+        </ul>
+    </div>
+
+    <h2>3. Included Product Liability Insurance Structure</h2>
+
+    <p>
+        본 운영 구조에는 KMX Product Liability Insurance Structure가 포함됩니다.
+        Hair Loss / Beauty 카테고리는 Claim 및 Consumer Risk 관리가 중요하기 때문에,
+        초기부터 보험 구조를 포함한 운영 기반 확보가 중요합니다.
+    </p>
+
+    <h2>4. Included Execution Scope</h2>
+
+    <div class="card">
+        <ul>
+            <li>North America DBA Operating Structure</li>
+            <li>Amazon Infrastructure Build</li>
+            <li>D2C Infrastructure</li>
+            <li>Hair Wellness Positioning</li>
+            <li>Content & Creative Execution</li>
+            <li>Retail / Buyer Preparation</li>
+            <li>KPI / Inventory / Forecast Operations</li>
+        </ul>
+    </div>
+
+    <h2>5. Typical U.S. Market Cost Comparison</h2>
+
+    <table>
+        <tr>
+            <th>영역</th>
+            <th>일반 미국 시장 비용 (월)</th>
+        </tr>
+        <tr>
+            <td>Amazon Growth Agency</td>
+            <td>$5,000 ~ $15,000</td>
+        </tr>
+        <tr>
+            <td>PPC / Performance Marketing</td>
+            <td>$3,000 ~ $10,000</td>
+        </tr>
+        <tr>
+            <td>Shopify / D2C Operations</td>
+            <td>$4,000 ~ $15,000</td>
+        </tr>
+        <tr>
+            <td>Creative / Content Team</td>
+            <td>$5,000 ~ $20,000</td>
+        </tr>
+        <tr>
+            <td>Fractional COO / Operator</td>
+            <td>$8,000 ~ $25,000+</td>
+        </tr>
+        <tr>
+            <td>Compliance / Regulatory Review</td>
+            <td>$2,000 ~ $10,000</td>
+        </tr>
+        <tr>
+            <td>Retail / Buyer Development</td>
+            <td>$3,000 ~ $10,000</td>
+        </tr>
+        <tr>
+            <td>Product Liability Insurance</td>
+            <td>별도 비용</td>
+        </tr>
+    </table>
+
+    <div class="quote">
+        일반적인 미국 현지 개별 구축 및 운영 시
+        약 <span class="highlight">$40,000 ~ $120,000+/month</span> 수준까지 발생 가능.
+    </div>
+
+    <h2>6. Why the KMX Structure Is Cost Efficient</h2>
+
+    <p>
+        만약 InnoGene가 한국 본사 기준으로 직접 북미 조직을 구축할 경우,
+        실제 비용은 현재 구조 대비 최소 2~3배 이상 증가할 가능성이 높습니다.
+    </p>
+
+    <div class="card">
+        <h3>Expected Additional Burdens</h3>
+        <ul>
+            <li>미국 현지 인력 운영</li>
+            <li>Vendor 관리</li>
+            <li>시행착오 비용</li>
+            <li>북미 시장 경험 부족</li>
+            <li>콘텐츠 및 Creator Network 구축 비용</li>
+            <li>Amazon/D2C 통합 운영 리스크</li>
+        </ul>
+    </div>
+
+    <h2>7. Most Important Point — Asset Creation</h2>
+
+    <p>
+        KMX 구조의 핵심은 단순 운영이 아닙니다.
+    </p>
+
+    <div class="card">
+        <h3>InnoGene USA Asset Buildout</h3>
+        <ul>
+            <li>Amazon Review Asset</li>
+            <li>Search Ranking Authority</li>
+            <li>D2C Customer Database</li>
+            <li>Content & UGC Asset</li>
+            <li>Retail / Buyer Network</li>
+            <li>Operational Data</li>
+            <li>North America Brand Infrastructure</li>
+        </ul>
+    </div>
+
+    <div class="quote">
+        단순 광고비 소진 구조가 아니라,<br>
+        InnoGene의 북미 사업 자산을 지속적으로 구축·축적하는 구조입니다.
+    </div>
+
+    <div class="footer">
+        InnoGene North America Execution Framework<br>
+        Prepared by KMX Group
+    </div>
+
+</div>
+
+</body>
+</html>
